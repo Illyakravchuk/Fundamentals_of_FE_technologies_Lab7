@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fundamentals_of_FE_technologies_Lab7/static/css/main.6a058718.css",
+    "main.js": "/Fundamentals_of_FE_technologies_Lab7/static/js/main.b0ed54ba.js",
+    "index.html": "/Fundamentals_of_FE_technologies_Lab7/index.html",
+    "main.6a058718.css.map": "/Fundamentals_of_FE_technologies_Lab7/static/css/main.6a058718.css.map",
+    "main.b0ed54ba.js.map": "/Fundamentals_of_FE_technologies_Lab7/static/js/main.b0ed54ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a058718.css",
+    "static/js/main.b0ed54ba.js"
+  ]
+}
